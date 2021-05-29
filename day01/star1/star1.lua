@@ -10,8 +10,9 @@ taxi = {pos = {x = 0, y = 0},
        }
 
 -- load file
--- local filename = io.read()
-filename = "testfile"
+print("Enter path to file: ")
+local filename = io.read()
+--filename = "testfile"
 input_string = readinput(filename)
 
 -- tokenize the list
