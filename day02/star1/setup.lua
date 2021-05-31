@@ -6,7 +6,7 @@ local function associate_keys(t)
       t[k].U = t[tostring(i - 3)]
       t[k].D = t[tostring(i + 3)]
       t[k].L = t[tostring(i - 1)]
-      t[k].R = t[tostring(i + 3)]
+      t[k].R = t[tostring(i + 1)]
    end
 end
 
