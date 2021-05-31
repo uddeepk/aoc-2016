@@ -1,4 +1,4 @@
-# aoc-2015
+# aoc-2016
 
 This repo contains my effor to complete Advent of Code 2016
 
